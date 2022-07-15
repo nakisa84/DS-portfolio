@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Nakisa Abbasi</title>
+    <link>https://github.com/nakisa84/DS-portfolio/tags/classification/</link>
+    <description>Recent content in classification on Nakisa Abbasi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/nakisa84/DS-portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breast Cancer Survival Prediction</title>
+      <link>https://github.com/nakisa84/DS-portfolio/post/project1/</link>
+      <pubDate>Mon, 10 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/nakisa84/DS-portfolio/post/project1/</guid>
+      <description>Dataset that has been used here is Seer Breast Cancer Data. This dataset of breast cancer patients was obtained from the 2017 November update of the SEER Program of the NCI, which provides information on population-based cancer statistics. The dataset involved female patients with infiltrating duct and lobular carcinoma breast cancer diagnosed in 2006-2010.
+Project Steps:
+Data Wrangling - This is where we try to get a raw understanding of what the data looks like and perform transformations and operations on it to bring it to a more usable state</description>
+    </item>
+    
+  </channel>
+</rss>
